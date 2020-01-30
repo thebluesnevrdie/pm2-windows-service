@@ -2,11 +2,13 @@
 
 Allows easily installing and uninstalling [PM2](https://github.com/Unitech/PM2/) as a service on Windows machines - forked from [pm2-windows-service](https://github.com/jon-hall/pm2-windows-service).
 
+## Installation
+
 ```sh
-  npm i @thebluesnevrdie/pm2-windows-service -g
+  npm i thebluesnevrdie/pm2-windows-service -g
 ```
 
-## Installation
+## Documentation
 
 See original documentation at [pm2-windows-service](https://github.com/jon-hall/pm2-windows-service)
 
