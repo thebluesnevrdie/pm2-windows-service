@@ -1,5 +1,5 @@
 {
-  "name": "thebluesnevrdie/pm2-windows-service",
+  "name": "pm2-windows-service",
   "version": "1.0.0",
   "description": "Install PM2 as a service on windows",
   "main": "src/index.js",
