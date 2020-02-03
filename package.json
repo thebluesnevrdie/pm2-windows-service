@@ -1,6 +1,6 @@
 {
   "name": "pm2-windows-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Install PM2 as a service on windows",
   "main": "src/index.js",
   "bin": {
@@ -30,7 +30,7 @@
     "co-event": "^0.1.0",
     "del": "^2.1.0",
     "fs-extra": "^4.0.2",
-    "inquirer": "^6.3.1",
+    "inquirer": "^6.4.1",
     "is-admin": "^1.0.2",
     "node-windows": "^0.1.10",
     "promisify-node": "^0.3.0",
